@@ -1,4 +1,11 @@
 /**
+ * EXERCÍCIOS
+ * 
+ * Antes de começar, certifique-se de instalar as 
+ * dependências do projeto utilizando "npm install"
+ * 
+ * Você pode executar o arquivo dos exercícios usando F5, e pode colocar breakpoints no lado esquerdo da linha
+ * 
  * 1- Crie um tipo para representar um objeto que contenha as suas informações de 
  * nome, profissão, idade e uma lista de assuntos de seu interesse.
  * 
@@ -25,4 +32,5 @@
  * 
  * 11 - Faça uma função que receba um argumento de array de Professores e 
  * retorne o primeiro Professor encontrado que dê aula de Typescript.
+ * 
  */

@@ -27,3 +27,5 @@ const professor: ProfessorDevschool = new ProfessorDevschool("123", "Alan", ["ty
 function test(user: ProfessorDevschool) {
     user
 }
+
+console.log(professor)
